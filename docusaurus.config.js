@@ -19,6 +19,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'yangsujeong',
   projectName: 'yangsujeong.github.io',
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
