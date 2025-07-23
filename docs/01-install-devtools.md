@@ -8,8 +8,6 @@ title: 1. 개발 프로그램 설치
 
 통합 압축파일 `project.zip` 파일을 `C:\ `로 복사, 다음과 같은 경로에 맞추어 압축을 해제한다.
 
-[다운로드](http://guide.ca.ustra.io/download/project.zip)
-
 ```
 project
 └ archive
@@ -29,7 +27,7 @@ project
 
 ## **1.1. 통합 압축 프로그램**
 
-통합 압축파일 `ustra_project.zip` 파일을 `C:\`로 복사, 다음과 같은 경로에 맞추어 압축을 해제
+통합 압축파일 `ustra_project.zip` 파일을 `C:\`로 복사, 다음과 같은 경로에 맞추어 압축을 해제한다.
 
 ```
 ustra_project
@@ -48,16 +46,16 @@ ustra_project
 
 ## **1.2. 개발 프로그램 설치**
 
-- `C:\ustra_project\archive` 경로에서 다음 프로그램을 설치
+- `C:\ustra_project\archive` 경로에서 다음 프로그램을 설치한다.
 
 ### **1) Git bash 설치**
 
-- `Git-2.50.1-64-bit.exe` 를 **기본설정**으로 설치
+- `Git-2.50.1-64-bit.exe` 를 **기본설정**으로 설치한다.
 
 ### **2) nodejs 설치**
 
-- `node-v18.20.8-x64.msi` 를 **기본설정**으로 설치
+- `node-v18.20.8-x64.msi` 를 **기본설정**으로 설치한다.
 
 ### **3) yarn 설치**
 
-- `yarn-1.22.22.msi` 를 **기본설정**으로 설치
+- `yarn-1.22.22.msi` 를 **기본설정**으로 설치한다.

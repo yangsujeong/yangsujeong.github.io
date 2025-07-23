@@ -11,7 +11,7 @@ title: 5. BO 프로젝트 구동
 
 ![image.png](/img/guide/image8.png)
 
-- Console 뷰의 로그를 체크하여, 정상구동이 되었는지 확인
+- Console 뷰의 로그를 체크하여, 정상구동이 되었는지 확인한다.
 
 ![image.png](/img/guide/image9.png)
 
@@ -19,7 +19,7 @@ title: 5. BO 프로젝트 구동
 
 ### **1) node 모듈 설치**
 
-- `Ctrl + ``` 버튼을 눌러 터미널을 활성화 하고,yarn install 커맨드를 실행하여 노드모듈을 설치
+- `Ctrl + ``` 버튼을 눌러 터미널을 활성화 하고,yarn install 커맨드를 실행하여 노드모듈을 설치한다.
 
 ```bash
 yarn install

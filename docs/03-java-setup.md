@@ -7,7 +7,7 @@ title: 3. Java 프로젝트 구성
 
 ## **3.1. Intelli IDE실행**
 
-- `C:\ustra_project\ide\ideaIC-2025.1.3.win\bin\idea64.exe`  실행
+- `C:\ustra_project\ide\ideaIC-2025.1.3.win\bin\idea64.exe`  실행한다.
 - 프로젝트 `C:\ustra_project\workspace\ustraframework-sample\back\root\build.gradle` 열기
 
 ![image.png](/img/guide/image.png)
