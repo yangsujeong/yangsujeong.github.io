@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkustraframework_sample_docs=self.webpackChunkustraframework_sample_docs||[]).push([[634],{192:(e,s,r)=>{r.r(s),r.d(s,{default:()=>c});r(6540);var a=r(6347),u=r(4848);function c(){return(0,u.jsx)(a.rd,{to:"/docs/local-dev-guide"})}}}]);
