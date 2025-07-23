@@ -33,6 +33,16 @@ const sidebars = {
         '06-run-project',
       ],
     },
+    {
+      type: 'category',
+      label: '개발 가이드',
+      collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'dev-guide',
+      },
+      items: [],
+    },
   ],
 };
 

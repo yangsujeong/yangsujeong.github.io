@@ -2,26 +2,6 @@
 id: 01-install-devtools
 title: 1. 개발 프로그램 설치
 ---
-# **1. 개발 프로그램 설치**
-
-### **1.1. 통합 압축 프로그램**
-
-통합 압축파일 `project.zip` 파일을 `C:\ `로 복사, 다음과 같은 경로에 맞추어 압축을 해제한다.
-
-```
-project
-└ archive
-└ ide
-| └ sts-4.15.1.RELEASE
-| └ VSCode-win32-x64-1.67.2
-└ lib
-| └ gradle-6.9.4
-| └ jdk-11.0.16+8
-└ workspace
-  └ app
-  └ java
-  └ node
-```
 
 # **1. 개발 프로그램 설치**
 
